@@ -73,5 +73,7 @@ $ python main.py
 ## Contact
 
 TG Priv: @dubskii420
+
 TG Group: https://t.me/flock4hcave
+
 Discord Group: https://discord.gg/thREUECv2a
