@@ -68,6 +68,8 @@ $ ls -a
 $ python main.py
 ```
 
+![image](https://github.com/user-attachments/assets/d6700609-c402-4bd9-b45c-8015bf5a87d7)
+
 ## Contact
 
 TG Priv: @dubskii420
