@@ -76,6 +76,8 @@ $ python main.py
 
 ![image](https://github.com/user-attachments/assets/d6700609-c402-4bd9-b45c-8015bf5a87d7)
 
+![image](https://github.com/user-attachments/assets/c9fce273-e553-4834-84ad-f22226f26a0d)
+
 ## Contact
 
 TG Priv: @dubskii420
