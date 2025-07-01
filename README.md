@@ -1,3 +1,9 @@
+<div align="center">
+  
+  <img src="https://github.com/user-attachments/assets/f5d00420-24b2-48ce-a1e7-cdfa0d643030" width=256 />
+  
+</div>
+
 # X-Ray
 
 Optimized for speed, free, and open-source project for **trading tokens released on Raydium Launchpad.** The swaps are being made using custom `launchlab` module, **there's no reliance on Jupyter or any other router** - Transactions are built on your machine and then sent directly to your Solana RPC node.
@@ -77,3 +83,5 @@ TG Priv: @dubskii420
 TG Group: https://t.me/flock4hcave
 
 Discord Group: https://discord.gg/thREUECv2a
+
+Tip Wallet: 
