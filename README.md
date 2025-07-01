@@ -84,4 +84,4 @@ TG Group: https://t.me/flock4hcave
 
 Discord Group: https://discord.gg/thREUECv2a
 
-Tip Wallet: 
+Tip Wallet: FL4CKfetEWBMXFs15ZAz4peyGbCuzVaoszRKcoVt3WfC
