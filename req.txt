@@ -1,0 +1,7 @@
+dotenv
+solders
+solana
+aiohttp
+asyncio
+construct
+httpx
