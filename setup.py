@@ -17,7 +17,8 @@ setup(
         "aiohttp",
         "httpx",
         "base58",
-        "dotenv"
+        "dotenv",
+        "readchar"
     ],
     author="FLOCK4H",
     description="X-Ray",
