@@ -8,6 +8,10 @@
 
 Optimized for speed, free, and open-source project for **trading tokens released on Raydium Launchpad.** The swaps are being made using custom `launchlab` module, **there's no reliance on Jupyter or any other router** - Transactions are built on your machine and then sent directly to your Solana RPC node.
 
+**Default parameters in X-Ray should be updated by the user,** market changes dynamically and can change in a matter of an hour - meaning, there is no room for defaults.
+
+Always assert your **.env** config is adjusted to current market conditions. 
+
 ## Features
 
 - Real-time token monitor
